@@ -1,8 +1,15 @@
-## Hi there 👋
+## Hi there, Im Rebecca!
 
-- 🔭 I’m currently working on: Frontend with AI
-- 🌱 I’m currently learning: LLM and Angular
+- 🔭 I’m currently working on: Frontend + AI
+- 🌱 I’m currently learning: LLM, Angular and Strudel
 - 💬 Ask me about: anything about films
+
+<div>
+  <img
+    height="250em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccajh-dev&layout=compact&theme=dracula"
+  />
+</div>
 
 <div style="display: inline_block"><cbr>
   <img align="center" alt="rebecca-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
