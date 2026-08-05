@@ -1,7 +1,7 @@
 ## Hi there, Im Rebecca!
 
-- 🔭 I’m currently working on: Frontend + AI
-- 🌱 I’m currently learning: LLM, Angular and Strudel
+- 🔭 I’m currently working on: Frontend + Backend
+- 🌱 I’m currently learning: Angular
 - 💬 Ask me about: anything about films
 
 
